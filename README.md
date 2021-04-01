@@ -21,7 +21,7 @@ showLoading(context);
 hideLoading();
 ```
 
-3. Override mixin methods to customize the loader experience
+3. Override mixin methods only if needed, to customize the loader experience
 
 ```dart
 class MyHomePageState extends State<MyHomePage> with LoadingWidget {

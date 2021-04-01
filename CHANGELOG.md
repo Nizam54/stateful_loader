@@ -1,3 +1,7 @@
-## [0.0.1] - 02/04/2021.
+## [0.0.2] - 02/04/2021.
+
+* Better documentation
+
+## [0.0.1] - 01/04/2021.
 
 * Initial beta release

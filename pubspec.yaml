@@ -1,7 +1,7 @@
 name: stateful_loader
 description: A simple mixin that manages the loader state for you just by calling showLoader and hideLoader
 version: 0.0.1
-homepage:
+homepage: https://github.com/Nizam54/stateful_loader
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
